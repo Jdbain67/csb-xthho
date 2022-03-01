@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jdbain67.github.io/csb-xthho/static/css/main.8ce6f52a.chunk.css",
+    "main.js": "https://jdbain67.github.io/csb-xthho/static/js/main.cde64658.chunk.js",
+    "main.js.map": "https://jdbain67.github.io/csb-xthho/static/js/main.cde64658.chunk.js.map",
+    "runtime-main.js": "https://jdbain67.github.io/csb-xthho/static/js/runtime-main.f66a988f.js",
+    "runtime-main.js.map": "https://jdbain67.github.io/csb-xthho/static/js/runtime-main.f66a988f.js.map",
+    "static/js/2.cb3d54e2.chunk.js": "https://jdbain67.github.io/csb-xthho/static/js/2.cb3d54e2.chunk.js",
+    "static/js/2.cb3d54e2.chunk.js.map": "https://jdbain67.github.io/csb-xthho/static/js/2.cb3d54e2.chunk.js.map",
+    "index.html": "https://jdbain67.github.io/csb-xthho/index.html",
+    "static/css/main.8ce6f52a.chunk.css.map": "https://jdbain67.github.io/csb-xthho/static/css/main.8ce6f52a.chunk.css.map",
+    "static/js/2.cb3d54e2.chunk.js.LICENSE.txt": "https://jdbain67.github.io/csb-xthho/static/js/2.cb3d54e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f66a988f.js",
+    "static/js/2.cb3d54e2.chunk.js",
+    "static/css/main.8ce6f52a.chunk.css",
+    "static/js/main.cde64658.chunk.js"
+  ]
+}
